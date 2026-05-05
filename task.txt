@@ -1,0 +1,126 @@
+application of learning 2.1
+
+Part 1: Defining the Project Scope ,Based on your description, here is a draft of the scope. 
+Your task as the analyst is to ensure these boundaries are clear.
+Project Goal: To increase user engagement by providing a mobile platform for real-time sustainability tracking and personalized environmental education
+.In-Scope: Real-time: notifications for sustainability initiatives.
+User profile creation to generate personalized carbon footprint tips.
+Dashboard for tracking individual environmental impact.
+Out-of-Scope (Assumed):Direct e-commerce/selling of green products.
+Hardware manufacturing for carbon sensors.
+Part 2: Requirement Analysis Test Below are five requirements derived from the Green Tech Solutions scenario.
+ Identify whether each is a Functional Requirement (FR) or a Non-Functional Requirement (NFR).
+The system shall allow users to log in using their email and password.
+The application must load the dashboard data within 3 seconds of opening.
+The app shall send push notifications when a new local sustainability event is posted.
+All user data and personal carbon footprint metrics must be encrypted.
+Users shall be able to calculate their weekly carbon footprint by inputting their travel and energy usage.
+Answer Key & Explanations1.
+ Functional Requirement (FR): Defines a specific behavior (Authentication).
+2. Non-Functional Requirement (NFR): Defines a performance constraint (Speed/Efficiency).
+3. Functional Requirement (FR): Defines a specific system action (Notifications).
+4. Non-Functional Requirement (NFR): Defines a quality attribute (Security).
+5. Functional Requirement (FR): Defines a core features
+
+application of learning 3.2
+
+PROJECT DOCUMENTATION: TELEMEDICINE PLATFORMCOMPANY: HEALTHCARE INNOVATORS INC.
+1. USER STORIESA User Story follows the format: "As a [User Role], I want [Action], so that [Goal/Value].
+"A. FOR PATIENTSUS-01: As a Patient, I want to book a virtual appointment online, so that I can consult a doctor without traveling to the health center.
+US-02: As a Patient, I want to receive SMS or email reminders, so that I do not miss my scheduled consultation time.
+US-03: As a Patient, I want to upload pictures of my symptoms securely, so that the doctor has more information before the call.
+B. FOR DOCTORS
+US-04: As a Doctor, I want to view the patient's medical history before a call, so that I can provide an accurate diagnosis.
+US-05: As a Doctor, I want to start a secure video consultation, so that I can see and speak with patients remotely.
+US-06: As a Doctor, I want to issue a digital prescription after the meeting, so that the patient can buy medicine easily.
+C. FOR ADMINISTRATIVE STAFF
+US-07: As an Admin, I want to view a master calendar of all appointments, so that I can manage staff workloads and prevent double-booking.
+US-08: As an Admin, I want to verify patient identity and insurance details, so that the clinic ensures proper billing.2. PROJECT BACKLOG The backlog is a prioritized list of tasks needed to build the platform.
+IDTask Name  RoleB-01User Registration & Login (Secure)HighAll UsersB-02Appointment Scheduling ModuleHighPatient/AdminB-03Video Calling IntegrationHighPatient/DoctorB-04Medical History Database SetupMediumDoctorB-05Digital Prescription GeneratorMediumDoctorB-06Notification/Reminder SystemLowPatientB-07Analytics Dashboard for AdminLowAdmin
+application of learning 3.3
+
+SITE MAP: FASHION RETAIL E-COMMERCE PLATFORMPROJECT REQUIREMENTS FRAMEWORK1. HOME PAGE (Landing Zone)Requirement: Hero banner for promotional campaigns.Requirement: Featured products (Clothing, Accessories, Footwear).Requirement: Links to Fashion Blog and Customer Support.2. PRODUCT CATALOG (Functional Area)Requirement: Product categories & filters (Size, Color, Price).Requirement: Individual Product Pages (Images, Description, Price).Requirement: Customer Reviews and Ratings section.3. USER ACCOUNT & SHOPPING CARTRequirement: User Registration / Login (Secure).Requirement: "Add to Cart" and "Wishlist" functionality.Requirement: Shopping Cart summary (Quantity edit/remove).4. CHECKOUT & PAYMENTS (Necessary Integrations)Requirement: User-friendly checkout (Shipping/Billing info).Integration: Secure Payment Gateway (Mobile Money, Credit Cards).Requirement: Automated Order Confirmation (Email/SMS).5. CONTENT & ENGAGEMENTRequirement: Fashion Blog (Articles, Style Tips).Requirement: Promotional Campaign pages (Discount codes/Sales).6. CUSTOMER SUPPORT (User Interaction)Requirement: Live Chat functionality for real-time help.Requirement: Contact Form & Frequently Asked Questions (FAQ).SUMMARY OF CORE REQUIREMENTSA. Functional RequirementsProduct search and filtering.Real-time cart updates.Live chat communication.B. Non-Functional RequirementsSecurity: SSL encryption for payment processing.Performance: High-resolution images must load quickly.Compatibility: Website must be mobile-responsive (Smartphone friendly).
+
+application of learning 3.1
+
+
+ARGET AUDIENCE ANALYSIS: BRIGHT FUTURE SECONDARY SCHOOL1. PRIMARY AUDIENCE GROUPSA. STUDENTSNeeds: Access to timetables, homework assignments, and exam results.Pain Points: Difficulty tracking deadlines or missing physical announcements.Technical Ability: High (Mobile-savvy, prefers quick navigation).B. PARENTS / GUARDIANSNeeds: Online fee payment portal, attendance tracking, and school calendars.Pain Points: Busy schedules; difficulty visiting the school in person for updates.Technical Ability: Moderate (Needs simple, clear instructions and mobile-friendliness).C. SCHOOL STAFF (Teachers & Admin)Needs: Tools to upload grades, manage enrollment, and post news.Pain Points: Manual paperwork is time-consuming; risk of data entry errors.Technical Ability: Variable (Requires a stable, easy-to-use backend dashboard).D. BROADER COMMUNITY (Prospective Parents/Partners)Needs: General info on school location, mission, and enrollment procedures.Pain Points: Lack of information about the school's reputation or facilities.Technical Ability: General public.2. IMPACT ON SYSTEM REQUIREMENTSRequirement 1 (Usability): The website must have a "Parent Portal" with a simple, high-contrast UI for easy navigation on older phones.Requirement 2 (Accessibility): Content should be available in Kinyarwanda and English to cater to all literacy levels.Requirement 3 (Performance): The site must be "lightweight" to load quickly on slow internet connections common in rural areas.3. AUDIENCE-SPECIFIC FEATURESFor Students: Downloadable PDF notes.For Parents: SMS integration for fee payment receipts.For Staff: Secure login with role-based access (e.g., Teachers cannot see payroll).
+
+
+application of learning 2.3
+
+PROJECT REQUIREMENT ANALYSIS: EcoClean LtdCase Study: Eco-Friendly Product Line Development1.
+ PROJECT OBJECTIVET :to define the requirements for a new line of sustainable cleaning products by analyzing market trends and consumer preferences to ensure a competitive advantage.
+2. DATA GATHERING PLAN (Research Phase)To identify the key features, the analyst will use:
+Market Trend Analysis: Researching "Green Chemistry" and circular packaging (refillable/biodegradable).
+Competitor Benchmarking: Comparing Eco Clean against existing brands (e.g., price points, certifications like Eco-Cert).
+Consumer Surveys: Identifying if customers prioritize "Scent," "Price," or "Chemical-free" formulas.
+3. PRELIMINARY REQUIREMENTSA. Functional Requirements (Features)Formula: The product must use plant-based surfactants instead of petroleum-based ones.
+Packaging: The bottles must be made from 100% Post-Consumer Recycled (PCR) plastic.
+Trace ability: A QR code on the label must link the user to a web page showing the source of ingredients.
+B. Non-Functional Requirements (Quality/Constraints)Regulatory Compliance: Must meet Rwanda Standards Board (RSB) environmental safety standards.
+Performance: The product must match or exceed the cleaning power of traditional chemical cleaners.
+Sustainability: 95% of ingredients must be biodegradable within 28 days.
+4. PROJECT SCOPE 
+In-Scope: Researching ingredients, eco-packaging design, and target audience identification.
+Out-of-Scope: The actual manufacturing process and the nationwide distribution logistics.
+
+application of learning 2.2
+
+PROJECT ANALYSIS: BRIGHT FUTURE SECONDARY SCHOOL1.
+ PROJECT CONTEXT The school needs a web platform to fix communication gaps. 
+Key features include fee payment, event tracking, and student performance monitoring.
+2. RESEARCH METHODOLOGIES (Data Gathering)To help the administration prioritize, the Analyst will use:
+METHOD A: Stakeholder 
+Interviews Target: School Principal and Accountants.
+Goal: Understand the legal and financial requirements for online fee payments.
+METHOD B:
+ Questionnaires/Surveys Target : Parents and Students.
+Goal: Determine which features they need most (e.g., do they prefer SMS alerts or a Web Dashboard?).
+METHOD C: Document
+ Analysis Target: Existing report cards and fee structures.
+Goal: Ensure the digital platform matches the school’s current grading system.
+3. IDENTIFIED REQUIREMENTS.
+ Functional Requirements (What the system does)The system shall allow parents to pay school fees via Mobile Money or Credit Card.
+The platform shall display real-time student grades and attendance records.
+The system shall provide an automated enrollment form for new programs.
+B. Non-Functional Requirements (Performance/Security)Security: Student academic records must only be accessible to authorized parents and staff.
+Availability: The web platform must be accessible 24/7 on both mobile and desktop.Reliability: The fee payment gateway must provide a digital receipt immediately after a transaction.4. PRIORITIZATION MATRIX (Analyst's Recommendation)HIGH PRIORITY: Online Fee Payment & Student Tracking.
+MEDIUM PRIORITY: School Event Updates.
+LOW PRIORITY: Program Enrollment Information.
+
+application of learning 2.4
+
+
+PROJECT ANALYSIS: ECOTECH INDUSTRIES1.
+ SITUATION OVERVIEW EcoTech Industries is optimizing its energy management systems.
+The data on current usage and efficiency trends has already been gathered.
+ The analyst must now interpret this data todefine the system requirements.
+2. ANALYSIS OF RESEARCH RESULTS
+The Analyst will focus on three key areas:
+Usage Patterns: Identifying peak hours of energy consumption.
+Waste Identification: Finding machinery or sectors with lower efficiency.
+Benchmarking: Comparing current usage against Rwanda’s industrial energy standards.
+3. CORE REQUIREMENTSA.
+ Functional Requirements (System Actions)FR-01:
+ The system shall provide real-time monitoring of energy consumption per department.
+FR-02: The system shall generate automated alerts when usage exceeds the predefined threshold.FR-03:
+ The system shall produce weekly efficiency reports with graphical comparisons.
+B. Non-Functional Requirements (System Constraints)NFR-01 (Accuracy):
+ Data sensors must report usage with99% precision.NFR-02 (Scalability): 
+The system must support the addition of new machinery in the future.NFR-03 (Interoperability): 
+The software must integrate with existing factory hardware.4. NEXT STEPS FOR THE ANALYST Validate requirements with the Engineering Department.
+Create a Data Flow Diagram (DFD) to show how energy data moves from sensors to the dashboard.
+
+application of learning 2.5
+
+PROJECT ANALYSIS REPORT:
+ HEALTHPLUS SOLUTIONS1.
+
+ EXECUTIVE SUMMARY Health Plus Solutions aims to upgrade its Patient Management System 
+.This report summarizes findings from research conducted on data security and user interface (UI) preferences.
+2. RESEARCH FINDINGS (Data Interpretation)SECURITY: Patients and staff prioritize end-to-end encryption and multi-factor authentication.
+UI PREFERENCES: Staff prefer a "One-Click" dashboard to accesspatient history quickly during emergencies.
+ACCESSIBILITY: The interface must support high-contrastviewing for medical staff working in different lighting.3. PROPOSED SYSTEM REQUIREMENTSA. Functional Requirements (FR)FR-01: The system shall allow doctors to view medicalhistories in a single dashboard view.FR-02: The system shall provide an automated backupof patient records every 24 hours.FR-03: The system shall include a secure login portalusing biometric or SMS-code verification.
+B. Non-Functional Requirements (NFR)NFR-01 (Security): Data must be stored in compliancewith national health data protection laws.
+NFR-02 (Usability): The UI shall require no more than3 clicks to reach any primary function.NFR-03 (Performance): Search results for patient filesmust appear in under 2 seconds.4. FINAL RECOMMENDATIONThe analyst recommends prioritizing the Security Modulebefore the UI redesign to ensure legal compliance andpatient trust.
