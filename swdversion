@@ -1,0 +1,135 @@
+Application of Learning Answers
+1.1 Directory Management using CMD
+
+As a system administrator, I used CMD to manage directories:
+
+Create directory
+mkdir FolderName
+Change directory
+cd FolderName
+cd ..
+Rename directory
+ren OldName NewName
+Delete directory
+rmdir FolderName
+
+👉 These commands help organize and manage the server efficiently.
+
+1.2 Git Setup and Configuration
+Install Git → Download from git-scm.com
+Verify installation
+git --version
+Initialize repository
+cd XYZ_Project
+git init
+Create .gitignore
+nano .gitignore
+
+Add:
+
+.env
+.env.*
+Save and commit
+git add .
+git commit -m "initial setup"
+
+👉 This ensures version control and protects sensitive files.
+
+1.3 Using GitHub for Project Collaboration
+Set up project folder
+mkdir FinanceApp
+cd FinanceApp
+Initialize Git
+git init
+Create GitHub repository (on github.com)
+Link to GitHub
+git remote add origin https://github.com/username/repo.git
+Add files
+git add .
+git commit -m "first commit"
+Push to GitHub
+git push -u origin main
+Collaborate
+Use branches
+Pull updates
+Push changes
+2.1 Checking Changes in Git
+Check status:
+git status
+
+👉 shows:
+
+feature.html → untracked
+main.html → modified
+View changes:
+git diff main.html
+Add files:
+git add feature.html main.html
+Delete unnecessary file:
+rm filename
+
+👉 Helps track and review changes before committing.
+
+2.2 Branching and Collaboration
+Create branch:
+git branch feature-xyz
+Switch branch:
+git checkout feature-xyz
+View branches:
+git branch
+Merge updates:
+git checkout main
+git pull
+git checkout feature-xyz
+git merge main
+
+👉 This helps teamwork, tracking progress, and avoiding conflicts.
+
+3.1 Working with Remote Repositories
+Clone repository:
+git clone repo_url
+Fetch branch:
+git fetch origin branch-name
+Sync all branches:
+git fetch --all
+Pull updates:
+git pull
+Pull specific branch:
+git pull origin branch-name
+Force pull:
+git pull --force
+
+👉 Keeps local project updated with remote repository.
+
+3.2 Pushing and Managing Remote Branches
+Push to remote:
+git push origin main
+Force push:
+git push --force
+Verbose push:
+git push -v
+Delete remote branch:
+git push origin --delete branch-name
+
+👉 Helps share work, fix conflicts, and keep repo clean.
+
+3.3 Rebase, Pull Request, and Merge
+Rebase:
+git checkout feature-branch
+git rebase main
+
+👉 Updates branch with latest code
+
+Create Pull Request → on GitHub
+Merge after approval:
+git merge feature-branch
+
+👉 Ensures clean integration and collaboration.
+
+✅ FINAL SUMMARY
+CMD → manage directories
+Git → track changes
+GitHub → collaboration
+Branching → teamwork
+Pull/Push → sync work
+Merge/Rebase → combine code
