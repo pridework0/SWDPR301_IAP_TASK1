@@ -1,0 +1,236 @@
+APPLICATION OF LEARNING – ORGANIZED DOCUMENT
+1.1 Data Collection Tools
+Project: CRM System Development for Retail Company
+1. Data Collection Tools
+Interview Guide (Management & Staff)
+Purpose: Understand business goals and workflow issues
+Key Question: “Where does the current system fail to capture sales opportunities?”
+Questionnaire (Customers)
+Measures: Satisfaction, ease of use, responsiveness
+Checklist (Legacy System Documentation)
+Reviews manuals, process maps, and error logs
+Online Form (Employee Feedback)
+Captures bugs and feature requests
+Observation Checklist (In-Store Workflow)
+Measures transaction time and system usage
+2. Data Organization
+Categorize → Technical Bugs, UX Issues, Process Gaps
+Validate → Confirm findings with stakeholders
+Solution → Propose features (e.g., automated alerts)
+1.2 Data Interpretation & Visualization
+Project: Educational Website for KCI Ltd
+Key Analysis Areas
+Engagement Patterns → Identify drop-off rates
+User Preferences → Popular course categories
+Feedback Analysis → Competitor weaknesses
+Visualization Techniques
+Trend Graphs
+Pie Charts
+Heatmaps
+Prioritization
+High: Progress tracking dashboard, mobile-friendly player
+Medium: Forums, recommendations
+Low: Social media sharing
+1.3 Data Categorization, Cleansing & Reporting
+Project: Employee Information System (EIS)**
+1. Data Categorization
+Personal Info
+Professional Data
+Performance Metrics
+System Requirements
+2. Data Cleansing
+Remove duplicates
+Standardize formats
+Correct errors
+Fill missing values
+3. Reporting
+Requirement Summary
+Gap Analysis
+Visual charts
+Outcome
+Clean dataset enabling accurate decision-making
+2.1 Project Scope & Requirement Analysis
+Project Goal
+
+Increase user engagement through a sustainability tracking mobile platform
+
+Scope
+In-Scope
+Real-time notifications
+User profiles with carbon tips
+Environmental tracking dashboard
+Out-of-Scope
+E-commerce
+Hardware production
+Requirement Classification
+Login system → Functional (FR)
+Dashboard loads in 3 seconds → Non-Functional (NFR)
+Push notifications → Functional (FR)
+Data encryption → Non-Functional (NFR)
+Carbon footprint calculator → Functional (FR)
+2.2 Project Analysis – School Platform
+Context
+
+Solve communication gaps in school systems
+
+Methods
+Interviews (Principal, Accountants)
+Surveys (Parents, Students)
+Document Analysis
+Requirements
+
+Functional
+
+Fee payment system
+Student performance tracking
+Enrollment forms
+
+Non-Functional
+
+Security (restricted access)
+Availability (24/7 access)
+Reliability (instant receipts)
+Priority
+High → Payments & Tracking
+Medium → Events
+Low → Enrollment
+2.3 EcoClean Ltd – Requirement Analysis
+Objective
+
+Develop eco-friendly cleaning products
+
+Data Gathering
+Market trends
+Competitor benchmarking
+Consumer surveys
+Requirements
+
+Functional
+
+Plant-based formula
+Recycled packaging
+QR traceability
+
+Non-Functional
+
+Regulatory compliance
+High performance
+Sustainability (95% biodegradable)
+Scope
+In: Research & design
+Out: Manufacturing & logistics
+2.4 EcoTech Industries Analysis
+Focus Areas
+Energy usage patterns
+Waste identification
+Benchmarking
+Requirements
+
+Functional
+
+Real-time monitoring
+Alerts for overuse
+Weekly reports
+
+Non-Functional
+
+Accuracy (99%)
+Scalability
+Integration
+Next Steps
+Validate with engineers
+Create Data Flow Diagram
+2.5 HealthPlus Solutions Report
+Findings
+Strong need for security
+Preference for quick dashboard
+Need for accessibility
+Requirements
+
+Functional
+
+Unified patient dashboard
+Automatic backups
+Secure login
+
+Non-Functional
+
+Legal compliance
+Ease of use (≤3 clicks)
+Fast search (<2 seconds)
+Recommendation
+
+Prioritize Security Module first
+
+3.1 Target Audience Analysis – School System
+Audience Groups
+Students: Need assignments, results
+Parents: Need payments, attendance
+Staff: Need management tools
+Community: Need general info
+System Requirements
+Simple Parent Portal
+Multilingual (Kinyarwanda & English)
+Lightweight performance
+Features
+Students → PDF notes
+Parents → SMS receipts
+Staff → Role-based access
+3.2 Telemedicine Platform
+User Stories
+
+Patients
+
+Book appointments
+Receive reminders
+Upload symptoms
+
+Doctors
+
+View history
+Video consultations
+Digital prescriptions
+
+Admin
+
+Manage schedules
+Verify patient details
+Project Backlog
+High → Login, Scheduling, Video calls
+Medium → Database, Prescriptions
+Low → Notifications, Analytics
+3.3 E-Commerce Site Map (Fashion Platform)
+Sections
+Home Page
+Promotions
+Featured products
+Blog links
+Product Catalog
+Categories & filters
+Product pages
+Reviews
+User Account
+Login/Register
+Cart & Wishlist
+Checkout
+Payment integration
+Order confirmation
+Content
+Blog
+Campaigns
+Support
+Live chat
+FAQ
+Core Requirements
+
+Functional
+
+Search & filtering
+Cart updates
+Live chat
+
+Non-Functional
+
+Security (SSL)
+Performance (fast loading)
+Mobile responsiveness
